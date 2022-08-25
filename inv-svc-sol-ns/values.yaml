@@ -1,0 +1,3 @@
+global: {}
+inv-svc-sol-ns:
+  replicaCount: 1
