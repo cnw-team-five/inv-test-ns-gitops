@@ -1,0 +1,4 @@
+apiVersion: v2
+version: 0.1.0
+name: inv-ui-sol-ns
+description: Chart to configure ArgoCD with the inv-ui-sol-ns project and its applications
